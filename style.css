@@ -1,0 +1,9 @@
+#welcome {
+    background: linear-gradient(#cff0ff 0%, #97daf7 100%);
+}
+#announcement {
+   background: linear-gradient(#97daf7 0%, #cff0ff 100%); 
+} 
+#contact {
+    background: linear-gradient(#cff0ff 0%, #97daf7 100%);
+}
